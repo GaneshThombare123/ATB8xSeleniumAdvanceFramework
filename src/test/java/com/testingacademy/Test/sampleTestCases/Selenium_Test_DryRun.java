@@ -1,7 +1,6 @@
-package com.testingacademy.Test;
+package com.testingacademy.Test.sampleTestCases;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.Test;
 
